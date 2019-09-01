@@ -58,6 +58,7 @@ def retrieval
 end
 
 def adding
+  shipping_manifest
   # updated = shipping_manifest["porcelain vases"] = 2
   # updated["muskets"] = 2
   # updated["gun powder"] = 4

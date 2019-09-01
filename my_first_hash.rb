@@ -53,5 +53,5 @@ def shipping_manifest
 end
 
 def retrieval
-  shipping_manifest["oil paintings"] => 3
+  shipping_manifest["oil paintings"] = 3
 end

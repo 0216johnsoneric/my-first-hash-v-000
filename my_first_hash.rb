@@ -57,5 +57,5 @@ def retrieval
 end
 
 def adding
-  shipping_manifest[] = 
+  shipping_manifest[] =
 end  

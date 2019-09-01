@@ -58,9 +58,9 @@ def retrieval
 end
 
 def adding
-  updated = shipping_manifest["porcelain vases"] = 2
-  updated["muskets"] = 2
-  updated["gun powder"] = 4
+  # updated = shipping_manifest["porcelain vases"] = 2
+  # updated["muskets"] = 2
+  # updated["gun powder"] = 4
   binding.pry
 
 end

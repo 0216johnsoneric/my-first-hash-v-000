@@ -55,3 +55,7 @@ end
 def retrieval
   shipping_manifest["oil paintings"] = 3
 end
+
+def adding
+  shipping_manifest[] = 
+end  

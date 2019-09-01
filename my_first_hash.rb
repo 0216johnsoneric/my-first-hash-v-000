@@ -47,3 +47,7 @@
  def my_hash
    my_hash = {"Eric" => "Sexy"}
 end
+
+def shipping_manifest
+
+end

@@ -44,4 +44,4 @@
 # return shipping_manifest
 # end
 
- def my_hashg
+ def my_hash

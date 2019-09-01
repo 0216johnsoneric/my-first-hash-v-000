@@ -46,7 +46,7 @@ require 'pry'
 # end
 
  def my_hash
-   my_hash = {"Eric" => "happy"}
+   my_hash = {"eric" => "happy"}
 end
 
 def shipping_manifest

@@ -46,3 +46,4 @@
 
  def my_hash
    Hash = {"Eric" => "S3xy"}
+end

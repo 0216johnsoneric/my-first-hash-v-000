@@ -50,11 +50,11 @@ require 'pry'
 end
 
 def shipping_manifest
-  shipping_manifest = {"whale bone corsets" => 5, "oil paintings" => 2, "porcelain vases" => 3}
+  shipping_manifest = {"whale bone corsets" => 5, "oil paintings" => 3, "porcelain vases" => 3}
 end
 
 def retrieval
-  shipping_manifest["oil paintings"] = 3
+  shipping_manifest["oil paintings"]  
 end
 
 def adding

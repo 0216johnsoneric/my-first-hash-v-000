@@ -53,5 +53,5 @@ def shipping_manifest
 end
 
 def retrieval
-  shipping_manifest[3] => 
-end  
+  shipping_manifest[3] =>
+end

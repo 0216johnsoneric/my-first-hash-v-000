@@ -49,5 +49,5 @@
 end
 
 def shipping_manifest
-
+  shipping_manifest = ["whale bone corsets", "oil paintings", "porcelain vases"]
 end

@@ -43,3 +43,5 @@
 #   # return the shipping_manifest hash below
 # return shipping_manifest
 # end
+
+ def my_hashg

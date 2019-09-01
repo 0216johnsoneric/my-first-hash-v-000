@@ -43,7 +43,7 @@
 #   # return the shipping_manifest hash below
 # return shipping_manifest
 # end
-
+require 'pry'
  def my_hash
    my_hash = {"Eric" => "Sexy"}
 end
@@ -60,7 +60,6 @@ def adding
   updated = shipping_manifest["porcelain vases"] = 2
   updated["muskets"] = 2
   updated["gun powder"] = 4
-  updated
-
+  binding.pry
 
 end

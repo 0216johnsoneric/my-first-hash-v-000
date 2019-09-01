@@ -61,6 +61,7 @@ def adding
   shipping_manifest
   shipping_manifest["muskets"] = 2
   shipping_manifest["gun powder"] = 4
+  shipping_manifest[porcelain vases] = 2
   # updated = shipping_manifest["porcelain vases"] = 2
   # updated["muskets"] = 2
   # updated["gun powder"] = 4

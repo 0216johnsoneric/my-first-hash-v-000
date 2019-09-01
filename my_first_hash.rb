@@ -45,5 +45,5 @@
 # end
 
  def my_hash
-   Hash = {"Eric" => "S3xy"}
+   Hash = {"Eric" => "Sexy"}
 end

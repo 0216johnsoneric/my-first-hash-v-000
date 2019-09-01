@@ -46,7 +46,7 @@ require 'pry'
 # end
 
  def my_hash
-   my_hash = {"Eric" => "Sexy"}
+   my_hash = {"Eric" => "happy"}
 end
 
 def shipping_manifest
@@ -54,7 +54,7 @@ def shipping_manifest
 end
 
 def retrieval
-  shipping_manifest["oil paintings"]  
+  shipping_manifest["oil paintings"]
 end
 
 def adding
